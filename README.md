@@ -8,7 +8,7 @@ Specialties/Interests:
 - All things in analytics
 - Attitudinal measurement, including customer/employee satisfaction
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://www.behance.net/gallery/27075137/-Working-time-gif-animation"></a>
+## Find me around the web 🌎: <a href=""><img align="left" width="150" height="150" src="https://png.pngtree.com/png-clipart/20190904/original/pngtree-a-man-at-work-png-image_4463549.jpg"></a>
 - Learning to compete on Kaggle <a href="https://www.kaggle.com/grafys">Kaggle</a> 📹 ✍🏾
 - Sharing updates on <a href="www.linkedin.com/in/vladislav-gabidullin-76b0501b6">LinkedIn</a> 💼
 
