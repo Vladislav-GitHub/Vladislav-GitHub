@@ -12,7 +12,7 @@ I am Vladislav from Russia and I am studying the field of machine learning. I re
 - Learning to compete on Kaggle <a href="https://www.kaggle.com/grafys">Kaggle</a> 📹 ✍️
 - Sharing updates on <a href="www.linkedin.com/in/vladislav-gabidullin-76b0501b6">LinkedIn</a> 💼
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladislav-GitHub)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladislav-GitHub)](https://github.com/Vladislav-GitHub/github-readme-stats)
 
 🛠 Languages and tools:
 
@@ -31,7 +31,7 @@ I am Vladislav from Russia and I am studying the field of machine learning. I re
 src="https://camo.githubusercontent.com/1a3d592707d940e585ac708278cf93823ccf24115714e2b90d27165c2abac401/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3035313232413f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d353633443743"></a></br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladislav-GitHub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladislav-GitHub&layout=compact)](https://github.com/Vladislav-GitHub/github-readme-stats)
 
 
 
