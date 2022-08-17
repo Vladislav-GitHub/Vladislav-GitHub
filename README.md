@@ -12,13 +12,15 @@ Specialties/Interests:
 - Learning to compete on Kaggle <a href="https://www.kaggle.com/grafys">Kaggle</a> 📹 ✍️
 - Sharing updates on <a href="www.linkedin.com/in/vladislav-gabidullin-76b0501b6">LinkedIn</a> 💼
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladislav-GitHub)](https://github.com/anuraghazra/github-readme-stats)
+
+💬 Languages and tools:
+
 <a href=""><img align="left" width="60" height="45" src="https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem.jpg"></a>
 <a href=""><img align="left" width="50" height="50" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></a>
 <a href=""><img align="left" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"></a>
 <a href=""><img align="left" width="35" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></a>
 <a href=""><img align="left" width="80" height="50" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png"></a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladislav-GitHub)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladislav-GitHub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
