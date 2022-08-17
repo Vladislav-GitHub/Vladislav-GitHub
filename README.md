@@ -1,5 +1,5 @@
 ### Hi, I'm Vladislav 👨‍💻
-I am interested in data science, machine learning and customer experience and how they all work together.
+I am Vladislav from Russia and I am studying the field of machine learning. I really enjoy learning languages and tools like Python, C++ etc.
 
 Specialties/Interests:
 - Getting value from data through the scientific method
