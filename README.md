@@ -1,5 +1,5 @@
 ### Hi, I'm Vladislav 👨‍💻
-I am Vladislav from Russia and I am studying the field of machine learning. I really enjoy learning tools and programming languages like Python, C++ etc.
+I am Vladislav from Russia and I am studying the field of machine learning and the field of web development. I really enjoy learning tools and programming languages like Python, C++ etc.
 
 💬 Specialties/Interests:
 - Getting value from data through the scientific method
