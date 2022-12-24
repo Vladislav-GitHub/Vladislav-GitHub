@@ -13,6 +13,8 @@ I am Vladislav from Russia and I am studying the field of machine learning and t
 - Sharing updates on <a href="www.linkedin.com/in/vladislav-gabidullin-76b0501b6">LinkedIn</a> 💼
 
 <br>
+<br>
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladislav-GitHub)](https://github.com/Vladislav-GitHub/github-readme-stats)
 
