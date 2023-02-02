@@ -16,7 +16,7 @@ I am Vladislav from Russia and I am studying the field of machine learning and t
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladislav-GitHub)](https://github.com/Vladislav-GitHub/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladislav-GitHub&show_icons=true&bg_color=00000000)](https://github.com/Vladislav-GitHub/github-readme-stats)
 
 🛠 Languages and tools:
 
@@ -33,7 +33,7 @@ I am Vladislav from Russia and I am studying the field of machine learning and t
 <a href=""><img align="left" src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562"></a></br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladislav-GitHub&layout=compact)](https://github.com/Vladislav-GitHub/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladislav-GitHub&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Vladislav-GitHub/github-readme-stats)
 
 
 
